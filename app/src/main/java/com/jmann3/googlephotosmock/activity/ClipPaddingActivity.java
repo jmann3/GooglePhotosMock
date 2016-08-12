@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors.activity;
+package com.jmann3.googlephotosmock.activity;
 
 import android.graphics.Point;
 import android.os.Bundle;
@@ -10,8 +10,8 @@ import android.view.ViewGroup;
 import android.widget.CompoundButton;
 import android.widget.ToggleButton;
 
-import com.israelferrer.smokeandmirrors.AnimationUtils;
-import com.israelferrer.smokeandmirrors.R;
+import com.jmann3.googlephotosmock.AnimationUtils;
+import com.jmann3.googlephotosmock.R;
 
 public class ClipPaddingActivity extends AppCompatActivity {
 

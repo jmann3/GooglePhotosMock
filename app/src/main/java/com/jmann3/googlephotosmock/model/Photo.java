@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors.model;
+package com.jmann3.googlephotosmock.model;
 
 import android.support.annotation.DrawableRes;
 

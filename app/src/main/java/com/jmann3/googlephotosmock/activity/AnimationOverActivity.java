@@ -1,11 +1,11 @@
-package com.israelferrer.smokeandmirrors.activity;
+package com.jmann3.googlephotosmock.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.israelferrer.smokeandmirrors.R;
+import com.jmann3.googlephotosmock.R;
 
 public class AnimationOverActivity extends AppCompatActivity {
     @Override

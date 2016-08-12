@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors;
+package com.jmann3.googlephotosmock;
 
 import org.junit.Test;
 

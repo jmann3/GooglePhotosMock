@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors.gesturedetector;
+package com.jmann3.googlephotosmock.gesturedetector;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -7,7 +7,7 @@ import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
 
-import com.israelferrer.smokeandmirrors.R;
+import com.jmann3.googlephotosmock.R;
 
 public class ItemTouchListenerDispatcher implements RecyclerView.OnItemTouchListener {
     @NonNull

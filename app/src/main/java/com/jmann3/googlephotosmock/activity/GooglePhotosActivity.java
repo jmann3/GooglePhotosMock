@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors.activity;
+package com.jmann3.googlephotosmock.activity;
 
 import android.os.Build;
 import android.os.Bundle;
@@ -15,13 +15,13 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
-import com.israelferrer.smokeandmirrors.AnimationUtils;
-import com.israelferrer.smokeandmirrors.R;
-import com.israelferrer.smokeandmirrors.gesturedetector.ItemTouchListenerDispatcher;
-import com.israelferrer.smokeandmirrors.gesturedetector.SmallMediumGestureDetector;
-import com.israelferrer.smokeandmirrors.model.Photo;
-import com.israelferrer.smokeandmirrors.view.MediumRecyclerViewHolder;
-import com.israelferrer.smokeandmirrors.view.SmallRecyclerViewHolder;
+import com.jmann3.googlephotosmock.AnimationUtils;
+import com.jmann3.googlephotosmock.R;
+import com.jmann3.googlephotosmock.gesturedetector.ItemTouchListenerDispatcher;
+import com.jmann3.googlephotosmock.gesturedetector.SmallMediumGestureDetector;
+import com.jmann3.googlephotosmock.model.Photo;
+import com.jmann3.googlephotosmock.view.MediumRecyclerViewHolder;
+import com.jmann3.googlephotosmock.view.SmallRecyclerViewHolder;
 
 import java.util.ArrayList;
 

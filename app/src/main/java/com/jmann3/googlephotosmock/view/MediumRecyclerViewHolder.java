@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors.view;
+package com.jmann3.googlephotosmock.view;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;

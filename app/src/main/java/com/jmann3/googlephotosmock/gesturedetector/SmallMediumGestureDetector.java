@@ -1,4 +1,4 @@
-package com.israelferrer.smokeandmirrors.gesturedetector;
+package com.jmann3.googlephotosmock.gesturedetector;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
